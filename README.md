@@ -1,4 +1,3 @@
-Here’s the exact text content from the **"Read Me.docx"** document (excluding the images) with all details preserved:
 
 ---
 
@@ -46,6 +45,7 @@ Here’s the exact text content from the **"Read Me.docx"** document (excluding 
 - **Sales Agent**: Sales agent name, total sales, conversion rates
 - **Product**: Product category, sales value, win rate  
 **Data Challenges**: Cleaned missing data (e.g., deal stage issues) and standardized product names to avoid discrepancies.
+![ERP diagram](https://github.com/user-attachments/assets/6962b55c-7aa1-431f-a70e-cafba1ba13b3)
 
 ---
 
@@ -143,4 +143,3 @@ Here’s the exact text content from the **"Read Me.docx"** document (excluding 
 
 ---
 
-Let me know if you'd like this reformatted for a slide deck, resume project description, or LinkedIn case study.
