@@ -14,6 +14,7 @@ Here’s the exact text content from the **"Read Me.docx"** document (excluding 
 **Problem**: The sales team has faced regional disparities in sales performance, with certain agents struggling to close deals efficiently and some product categories underperforming despite a healthy win rate overall. The East region has particularly been lagging in comparison to the West and Central regions.  
 **Action**: Conducted a thorough analysis of sales data across regions, agents, and product categories using Power BI for visualization. Key performance metrics were segmented by region, agent efficiency, and product win rates to uncover actionable insights.  
 **Result**: Identified actionable strategies that could increase total sales by 8% in the next quarter, including focusing on high-performing agents, boosting sales performance in the East region, and optimizing the promotion of underperforming products.
+![dashboard](https://github.com/user-attachments/assets/41530360-f943-476d-8745-e368d898b896)
 
 ---
 
@@ -67,6 +68,7 @@ Here’s the exact text content from the **"Read Me.docx"** document (excluding 
 #### Insight 1: Regional Sales Performance  
 **What**: The West region is performing the best, contributing $3.6M in sales, while the East region lags behind at $3.1M.  
 **So What**: The East region could improve significantly with better market understanding or support. Focusing on this region’s specific challenges could boost its sales by 10%.
+![regional_sales](https://github.com/user-attachments/assets/45453885-12aa-4956-9e58-f554e4dba2f0)
 
 ---
 
@@ -94,6 +96,7 @@ Here’s the exact text content from the **"Read Me.docx"** document (excluding 
 
 **What**: GTX Plus Pro and GTX Basic have the highest win rates at 77%. GTX Plus Basic (76%) and MG Advanced (74%) also perform well. MG Special and GTX 500 are underperforming at 63%.  
 **So What**: Prioritize high-performing products in marketing. Investigate reasons behind low win rates for underperformers like GTX 500.
+![Product Performance](https://github.com/user-attachments/assets/932bf591-6c19-43e3-b099-f506d79fd892)
 
 ---
 
@@ -101,6 +104,7 @@ Here’s the exact text content from the **"Read Me.docx"** document (excluding 
 
 **What**: Steady increase in total deals over quarters, with a 150% spike in Q2 compared to Q1.  
 **So What**: Likely shift toward larger or more actively pursued deals. A focus on high-value deals may be the new trend.
+![quarterly_deals](https://github.com/user-attachments/assets/083fd165-21bf-453c-9dc4-d485286bd603)
 
 ---
 
@@ -108,6 +112,7 @@ Here’s the exact text content from the **"Read Me.docx"** document (excluding 
 
 **What**: Sales rose from $1.1M (Q1) to $3.0M (Q2), then plateaued at $2.8M in Q3 and Q4.  
 **So What**: The Q2 spike could stem from successful campaigns or launches—understanding and replicating these factors is key.
+![quarterly_sales](https://github.com/user-attachments/assets/ad70f027-191c-40ea-9eae-43f295ddcd87)
 
 ---
 
